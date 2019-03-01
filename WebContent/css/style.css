@@ -2122,9 +2122,9 @@ ul.social-icons li a{
 		width: 100%;
 	}
 	.navbar-nav {
-		margin: 0;
-		background: #f5f5f5;
-		text-align: center;
+		margin: 10px;
+		background: black;
+		text-align: left;
 		padding: 1em 0;
 	}
 	.navbar-nav .open .dropdown-menu {
